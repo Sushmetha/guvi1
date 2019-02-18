@@ -1,3 +1,3 @@
-n=int(input())
-m=int(input())
+n=input()
+m=input()
 print(n**m)
